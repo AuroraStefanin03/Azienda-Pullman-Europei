@@ -2,15 +2,12 @@
 
 La compagnia FrikBus ha un vasto parco di pullman ed offre collegamenti diretti verso varie città europee.
 
-
 La compagnia vuole realizzare un portale web da cui gli utenti possono:
-
 - consultare le tratte disponibili, con i servizi offerti per ogni tratta 
 - previa registrazione, prenotare ed acquistare uno o più posti 
 - durante il viaggio, consultare la propria posizione corrente ed eventuali ritardi 
 
 Il  portale web prevede anche una sezione Amministrativa dalla quale:
-
 - i gestori della compagnia possono controllare e visualizzare tutti i dati relativi ai passeggeri e relativi viaggi effettuati.  
 - siano tracciati tutti i pullman per poter stabilire non solo la posizione ma anche eventuali ritardi che figureranno sulla pagina del cliente.  
 
