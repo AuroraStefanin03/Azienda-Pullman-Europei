@@ -1,4 +1,4 @@
 # Dimensionamento del progetto 
 
-- 5 milioni utanti all'anno
+- 5 milioni di utanti all'anno
 - 200.000 accessi al giorno
