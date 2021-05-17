@@ -1,7 +1,7 @@
 # Personas 1
 
-Federica Micci è una donna di 36 ann che vive a Milano. Ha una figlia di nome Serena di 8 anni Federica, insieme alla figlia vogliono andare a trovare i parenti. La loro meta 
-è Barcellona. Vorrebbero poterci andare con un pullman per godersi a pieno il viaggio, ma hanno bisogno di un sito che gli permetta di viaggaire a poco prezzo.
+Federica Micci è una donna di 36 ann che vive a Milano. Ha una figlia di nome Serena di 8 anni. Insieme vogliono andare a trovare i parenti, ma si trovano a Barcellona. 
+Vorrebbero poterci arrivare con un pullman per godersi a pieno il viaggio, ma hanno bisogno di un sito che gli permetta di viaggaire a poco prezzo.
 
 
 # Personas 2
