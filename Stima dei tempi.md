@@ -3,7 +3,8 @@ poi ho creato il wireframe ovvero l'aspetto esteriore di come si presenterà il 
 creato l'architettura disponendo diversi dipositivi i quali comunicheranno per poter fornire i servizi richiesti,
 stimato, all'incirca, quante persone potrebbero fare l'accesso all'anno e al giorno al mio portale,
 implementato la parte di codice solo degli aspetti più importanti che ritenevo più giusti mostrare 
-e infine spiegato attraverso l' "Executive Summary":
+e infine spiegato attraverso 
+l' "Executive Summary":
 - il problema che si vuole risolvere, 
 - gli obiettivi del progetto, 
 - quali alternative già sono presenti ora sul mercato, 
