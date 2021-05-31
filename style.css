@@ -1,0 +1,28 @@
+.titolo{
+  width::100% ;
+  text-align:center;
+}
+
+.button{
+  text-decoration: underline;
+  border: none;
+}
+
+.menu_card{
+  text-align:left;
+  width: auto;
+  border: 1px solid black; 
+  margin-top: 20px; 
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.streaming{
+  text-align: center;
+  width:17% ;
+}
+
+.cod{
+  text-align: right;
+  padding-bottom: 10px;
+}
